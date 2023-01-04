@@ -1,0 +1,10 @@
+td, th{
+    border:1px solid black;
+    padding:5px 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+table{
+    border-collapse: collapse;
+    background: burlywood;
+}
